@@ -4,5 +4,6 @@ This is an example repository for the Git Tutorial https://www.w3schools.com/git
 
 This repository is built step by step in the Tutorial
 This tutorial focuses mainly on Git and using GitHub as its remote.
+This is a newline to test pulling branches to GitHub.
 
 It now includes steps for GitHub
